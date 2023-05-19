@@ -38,7 +38,7 @@ public class DiagnosisTest {
 
     @Test
     void shouldReturnSpecialistDoctorToPerformSpecialistExam() {
-        assertEquals("Specialist Doctor", specialistDoctor.performDiagnosis(new Diagnosis(DiagnosisSpecialist.getDiagnosisSpecialist())));
+        assertEquals("Specialist Doctor", specialistDoctor.performDiagnosis(new Diagnosis(DiagnosisTypeSpecialist.getDiagnosisSpecialist())));
     }
 
     @Test

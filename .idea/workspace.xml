@@ -53,16 +53,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="JUnit.DiagnosisTest.shouldReturnWithoutDiagnosis">
+}</component>
+  <component name="RunManager" selected="JUnit.All in LP5-chainofresponsability">
+    <configuration name="All in LP5-chainofresponsability" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LP5-chainofresponsability" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DiagnosisTest.ShouldReturnImageExamDoctorToPerformImageExam" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LP5-chainofresponsability" />
       <extension name="coverage">
@@ -74,22 +82,6 @@
       <option name="PACKAGE_NAME" value="chainofresponsability" />
       <option name="MAIN_CLASS_NAME" value="chainofresponsability.DiagnosisTest" />
       <option name="METHOD_NAME" value="ShouldReturnImageExamDoctorToPerformImageExam" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DiagnosisTest.shouldReturnGeneralDoctorToPerformGeneralDiagnosis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LP5-chainofresponsability" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chainofresponsability.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="chainofresponsability" />
-      <option name="MAIN_CLASS_NAME" value="chainofresponsability.DiagnosisTest" />
-      <option name="METHOD_NAME" value="shouldReturnGeneralDoctorToPerformGeneralDiagnosis" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in LP5-chainofresponsability" />
         <item itemvalue="JUnit.DiagnosisTest.shouldReturnWithoutDiagnosis" />
         <item itemvalue="JUnit.DiagnosisTest.shouldReturnSpecialistDoctorToPerformSpecialistExam" />
         <item itemvalue="JUnit.DiagnosisTest.ShouldReturnImageExamDoctorToPerformImageExam" />
         <item itemvalue="JUnit.DiagnosisTest.shouldReturnLaboratoryDoctorToPerformLabExam" />
-        <item itemvalue="JUnit.DiagnosisTest.shouldReturnGeneralDoctorToPerformGeneralDiagnosis" />
       </list>
     </recent_temporary>
   </component>

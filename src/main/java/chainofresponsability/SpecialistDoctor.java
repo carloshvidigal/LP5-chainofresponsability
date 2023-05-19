@@ -3,7 +3,7 @@ package chainofresponsability;
 public class SpecialistDoctor extends Doctor{
 
     public SpecialistDoctor(Doctor superior) {
-        diagnosisList.add(DiagnosisSpecialist.getDiagnosisSpecialist());
+        diagnosisList.add(DiagnosisTypeSpecialist.getDiagnosisSpecialist());
         setSuperiorDoctor(superior);
     }
 
